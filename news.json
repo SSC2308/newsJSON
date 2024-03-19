@@ -2,60 +2,6 @@
   "news_results": [
     {
       "position": 1,
-      "link": "https://delfino.cr/2024/03/primer-cafe-costarricense-libre-de-deforestacion-fue-exportado-a-italia",
-      "title": "Primer café costarricense libre de deforestación fue exportado a Italia",
-      "source": "Delfino.cr",
-      "date": "2024-03-15T15:34:00Z",
-      "snippet": "El café sin deforestación es una medida que Europa exigirá para entrar a sus mercados a partir de 2025. Costa Rica selló este jueves 14 de marzo el...",
-      "thumbnail": "https://d1qqtien6gys07.cloudfront.net/wp-content/uploads/2024/03/Sacos-1024x768.jpeg"
-    },
-    {
-      "position": 2,
-      "link": "https://culturacr.net/playas-de-5-estrellas-con-bandera-azul-ecologica/",
-      "title": "Estas son las 11 playas de 5 estrellas con bandera azul ecológica en Costa Rica - Culturacr.net",
-      "source": "Culturacr.net",
-      "date": "2024-03-15T21:45:06Z",
-      "snippet": "Aquí le damos a conocer las playas de 5 estrellas con bandera azul ecológica que forman parte del top 11 con esa distinción. Lo primero, un aplauso de pie...",
-      "thumbnail": "https://i0.wp.com/culturacr.net/wp-content/uploads/2024/03/unnamed-12.jpg"
-    },
-    {
-      "position": 3,
-      "link": "https://www.muyinteresante.com/actualidad/64111.html",
-      "title": "Descubren una hipnotizante especie de gusano de aguas profundas",
-      "source": "Muy Interesante",
-      "date": "2024-03-16T13:00:00Z",
-      "snippet": "Parece una 'alfombra voladora viviente' y ha sido encontrada en las profundidades de Costa Rica.",
-      "thumbnail": "https://imagenes.muyinteresante.com/files/image_448_299/uploads/2024/03/13/65f1bddba25c8.jpeg"
-    },
-    {
-      "position": 4,
-      "link": "https://ameliarueda.com/noticia/mafia-inmobiliaria-lucra-desarrollo-perjudicial-ecosistemas-coordinador-fiscalia-ambiental-noticias-costa-rica",
-      "title": "Mafia inmobiliaria” lucra con desarrollo perjudicial para ecosistemas, señala coordinador de Fiscalía Ambiental",
-      "source": "AmeliaRueda.com",
-      "date": "2024-03-16T11:20:22-06:00",
-      "snippet": "Ambientalistas indican que daños en humedales como el de Coris en Cartago son muy difíciles de restaurar.",
-      "thumbnail": "https://d39ozdhkcyy1f8.cloudfront.net/140324_fiscal_ambiente_0ec1e66feb.webp"
-    },
-    {
-      "position": 5,
-      "link": "https://adiariocr.com/ambiente/quebradores-arrasan-con-los-rios-para-exportar-materiales-denuncian-estudiantes/",
-      "title": "Quebradores arrasan con los ríos para exportar materiales, denuncian estudiantes",
-      "source": "aDiarioCR.com",
-      "date": "2024-03-17T17:12:35Z",
-      "snippet": "Estudios demuestra aumento de la exportación de materiales de río y su impacto socioambiental por parte de empresas como MECO y H. Solís.",
-      "thumbnail": "https://adiariocr.com/wp-content/uploads/rio-2-1024x705.jpg"
-    },
-    {
-      "position": 6,
-      "link": "https://www.monumental.co.cr/2024/03/17/expertos-en-salud-desecho-inadecuado-de-medicamentos-afecta-calidad-del-aguaa/",
-      "title": "Expertos en salud: Desecho inadecuado de medicamentos afecta calidad del agua - Monumental : Monumental",
-      "source": "Radio Monumental",
-      "date": "2024-03-17T22:35:51Z",
-      "snippet": "Por: Juan Enrique Soto Sibaja. juan.soto@monumental.co.cr. Los expertos del Colegio de Farmacéuticos hicieron un llamado a la población a realizar un...",
-      "thumbnail": "https://www.monumental.co.cr/wp-content/uploads/2024/03/AGUA-1.png"
-    },
-    {
-      "position": 7,
       "link": "https://semanariouniversidad.com/opinion/urge-aprobar-el-proyecto-anti-petrolero/",
       "title": "URGE aprobar el proyecto anti petrolero • Semanario Universidad",
       "source": "Semanario Universidad",
@@ -64,7 +10,7 @@
       "thumbnail": "https://semanariouniversidad.com/wp-content/uploads/2024/03/unnamed-287x300.jpg"
     },
     {
-      "position": 8,
+      "position": 2,
       "link": "https://www.larepublica.net/noticia/desechar-pastillas-en-el-inodoro-o-el-basurero-podria-traerle-graves-consecuencias",
       "title": "Desechar pastillas en el inodoro o el basurero podría traerle graves consecuencias",
       "source": "Periódico La República (Costa Rica)",
@@ -73,7 +19,7 @@
       "thumbnail": "https://www.larepublica.net/storage/images/2024/03/17/20240317202157.untitled-design-81.x2.png"
     },
     {
-      "position": 9,
+      "position": 3,
       "link": "https://www.elpais.cr/2024/03/18/ecologista-denuncia-destruccion-de-bosque-en-territorio-indigena-de-kekoldi-talamanca/",
       "title": "Ecologista denuncia destrucción de bosque en Territorio indígena de Kéköldi, Talamanca",
       "source": "Diario Digital Nuestro País",
@@ -82,7 +28,7 @@
       "thumbnail": "https://www.elpais.cr/wp-content/uploads/2024/03/Denuncia-en-Cocles.jpeg"
     },
     {
-      "position": 10,
+      "position": 4,
       "link": "https://elmundo.cr/costa-rica/fuerza-publica-ha-evitado-que-oreros-ilegales-procesen-45-toneladas-de-material-minero-en-crucitas/",
       "title": "Fuerza Pública ha evitado que oreros ilegales procesen 45 toneladas de material minero en Crucitas",
       "source": "El Mundo CR",
@@ -91,7 +37,7 @@
       "thumbnail": "https://elmundo.cr/wp-content/uploads/2024/03/Mineria-ilegal-Crucitas-jpeg.webp"
     },
     {
-      "position": 11,
+      "position": 5,
       "link": "https://revistasumma.com/costa-rica-gobierno-busca-soluciones-a-productores-de-palma-aceitera-en-el-caribe/",
       "title": "Costa Rica: Gobierno busca soluciones a productores de palma aceitera en el Caribe",
       "source": "Revista Summa",
@@ -100,13 +46,31 @@
       "thumbnail": "https://revistasumma.com/wp-content/uploads/2022/01/aceite-de-palma.jpg"
     },
     {
-      "position": 12,
+      "position": 6,
       "link": "https://www.infobae.com/america/mundo/2024/03/18/pronostican-un-aumento-global-en-los-precios-del-banano-por-el-cambio-climatico-y-las-plagas/",
       "title": "Pronostican un aumento global en los precios del banano por el cambio climático y las plagas",
       "source": "Infobae",
       "date": "2024-03-18T19:55:14.014Z",
       "snippet": "Países latinoamericanos productores como Guatemala, El Salvador y Costa Rica estarían entre los más gravemente impactados por este fenómeno.",
       "thumbnail": "https://www.infobae.com/new-resizer/_Ufd4fIlV47BuYwDP8aatqpdXFg=/1200x630/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/WU7DJEDAHJGRLPF7HH3M3KTHOM.jpg"
+    },
+    {
+      "position": 7,
+      "link": "https://adiariocr.com/ambiente/274-kilos-de-desechos-fueron-recolectados-de-playa-guacalillo/",
+      "title": "274 kilos de desechos fueron recolectados de playa Guacalillo",
+      "source": "aDiarioCR.com",
+      "date": "2024-03-19T17:10:01+00:00",
+      "snippet": "La empresa Chevrolet, por medio de la participación de 24 de sus colaboradores, recolectó más de 274 kilos de basura en playa Guacalillo de Puntarenas.",
+      "thumbnail": "https://adiariocr.com/wp-content/uploads/voluntariado-4-scaled-e1710884526584.jpg"
+    },
+    {
+      "position": 8,
+      "link": "https://adiariocr.com/ambiente/dia-mundial-del-agua-precedido-por-foro-para-atender-crisis-de-oreamuno/",
+      "title": "Día Mundial del Agua precedido por foro para atender crisis de Oreamuno",
+      "source": "aDiarioCR.com",
+      "date": "2024-03-19T22:01:42+00:00",
+      "snippet": "Foro “Agua Segura como motor para la Paz Social” será este 21 de marzo en la UCR.",
+      "thumbnail": "https://adiariocr.com/wp-content/uploads/Bijagua3-e1631068094899.jpeg"
     }
   ]
 }
