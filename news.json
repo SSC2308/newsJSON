@@ -2,87 +2,6 @@
   "news_results": [
     {
       "position": 1,
-      "link": "https://semanariouniversidad.com/opinion/urge-aprobar-el-proyecto-anti-petrolero/",
-      "title": "URGE aprobar el proyecto anti petrolero • Semanario Universidad",
-      "source": "Semanario Universidad",
-      "date": "2024-03-18T11:20:22-06:00",
-      "snippet": "El proyecto de Ley para declarar Costa Rica como país libre de exploración y explotación de petróleo y gas (expediente N° 23.579), demanda ser aprobado.",
-      "thumbnail": "https://semanariouniversidad.com/wp-content/uploads/2024/03/unnamed-287x300.jpg"
-    },
-    {
-      "position": 2,
-      "link": "https://www.larepublica.net/noticia/desechar-pastillas-en-el-inodoro-o-el-basurero-podria-traerle-graves-consecuencias",
-      "title": "Desechar pastillas en el inodoro o el basurero podría traerle graves consecuencias",
-      "source": "Periódico La República (Costa Rica)",
-      "date": "2024-03-18T09:20:22-06:00",
-      "snippet": "El desecho inadecuado de medicamentos en letrinas o basureros puede afectar directamente la calidad del agua, entre otros riesgos ambientales y para la...",
-      "thumbnail": "https://www.larepublica.net/storage/images/2024/03/17/20240317202157.untitled-design-81.x2.png"
-    },
-    {
-      "position": 3,
-      "link": "https://www.elpais.cr/2024/03/18/ecologista-denuncia-destruccion-de-bosque-en-territorio-indigena-de-kekoldi-talamanca/",
-      "title": "Ecologista denuncia destrucción de bosque en Territorio indígena de Kéköldi, Talamanca",
-      "source": "Diario Digital Nuestro País",
-      "date": "2024-03-18T11:21:11-06:00",
-      "snippet": "San José, 18 Mar (Elpaís.cr).- Ecologistas interpusieron una denuncia ante el Minae por tala ilegal y la invasión del territorio Indígena de Kéköldi en el...",
-      "thumbnail": "https://www.elpais.cr/wp-content/uploads/2024/03/Denuncia-en-Cocles.jpeg"
-    },
-    {
-      "position": 4,
-      "link": "https://elmundo.cr/costa-rica/fuerza-publica-ha-evitado-que-oreros-ilegales-procesen-45-toneladas-de-material-minero-en-crucitas/",
-      "title": "Fuerza Pública ha evitado que oreros ilegales procesen 45 toneladas de material minero en Crucitas",
-      "source": "El Mundo CR",
-      "date": "2024-03-18T15:44:53+00:00",
-      "snippet": "Fuerza Pública ha evitado que oreros ilegales procesen 45 toneladas de material minero en Crucitas Costa Rica - El Mundo CR.",
-      "thumbnail": "https://elmundo.cr/wp-content/uploads/2024/03/Mineria-ilegal-Crucitas-jpeg.webp"
-    },
-    {
-      "position": 5,
-      "link": "https://revistasumma.com/costa-rica-gobierno-busca-soluciones-a-productores-de-palma-aceitera-en-el-caribe/",
-      "title": "Costa Rica: Gobierno busca soluciones a productores de palma aceitera en el Caribe",
-      "source": "Revista Summa",
-      "date": "2024-03-18T21:30:25+00:00",
-      "snippet": "MIDEPLAN dotará de financiamiento para estudios de preinversión que permitan hacer una realidad la construcción y operación de una Planta Procesadora de...",
-      "thumbnail": "https://revistasumma.com/wp-content/uploads/2022/01/aceite-de-palma.jpg"
-    },
-    {
-      "position": 6,
-      "link": "https://www.infobae.com/america/mundo/2024/03/18/pronostican-un-aumento-global-en-los-precios-del-banano-por-el-cambio-climatico-y-las-plagas/",
-      "title": "Pronostican un aumento global en los precios del banano por el cambio climático y las plagas",
-      "source": "Infobae",
-      "date": "2024-03-18T19:55:14.014Z",
-      "snippet": "Países latinoamericanos productores como Guatemala, El Salvador y Costa Rica estarían entre los más gravemente impactados por este fenómeno.",
-      "thumbnail": "https://www.infobae.com/new-resizer/_Ufd4fIlV47BuYwDP8aatqpdXFg=/1200x630/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/WU7DJEDAHJGRLPF7HH3M3KTHOM.jpg"
-    },
-    {
-      "position": 7,
-      "link": "https://adiariocr.com/ambiente/274-kilos-de-desechos-fueron-recolectados-de-playa-guacalillo/",
-      "title": "274 kilos de desechos fueron recolectados de playa Guacalillo",
-      "source": "aDiarioCR.com",
-      "date": "2024-03-19T17:10:01+00:00",
-      "snippet": "La empresa Chevrolet, por medio de la participación de 24 de sus colaboradores, recolectó más de 274 kilos de basura en playa Guacalillo de Puntarenas.",
-      "thumbnail": "https://adiariocr.com/wp-content/uploads/voluntariado-4-scaled-e1710884526584.jpg"
-    },
-    {
-      "position": 8,
-      "link": "https://adiariocr.com/ambiente/dia-mundial-del-agua-precedido-por-foro-para-atender-crisis-de-oreamuno/",
-      "title": "Día Mundial del Agua precedido por foro para atender crisis de Oreamuno",
-      "source": "aDiarioCR.com",
-      "date": "2024-03-19T22:01:42+00:00",
-      "snippet": "Foro “Agua Segura como motor para la Paz Social” será este 21 de marzo en la UCR.",
-      "thumbnail": "https://adiariocr.com/wp-content/uploads/Bijagua3-e1631068094899.jpeg"
-    },
-    {
-      "position": 9,
-      "link": "https://elmundo.cr/municipales/monteverde-transforma-residuos-en-abono-organico-a-gran-escala/",
-      "title": "Monteverde transforma residuos en abono orgánico a gran escala",
-      "source": "El Mundo CR",
-      "date": "2024-03-20T15:34:32+00:00",
-      "snippet": "San José, 20 mar (elmundo.cr) – Conservar los ríos limpios y el medio ambiente sano hace de Monteverde el lugar favorito de más de 200.000 turistas cada año...",
-      "thumbnail": "https://elmundo.cr/wp-content/uploads/2024/03/Recoleccion-residuos-solidos-1.jpg"
-    },
-    {
-      "position": 10,
       "link": "https://www.periodicomensaje.com/cantonales/11833-desarrollan-foro-que-promueve-el-uso-sostenible-del-agua-y-la-inversion-en-santa-cruz",
       "title": "Desarrollan Foro que promueve el uso sostenible del agua y la inversión en Santa Cruz",
       "source": "Periódico Mensaje",
@@ -91,7 +10,7 @@
       "thumbnail": "https://www.periodicomensaje.com/images/foro_agua1.jpg"
     },
     {
-      "position": 11,
+      "position": 2,
       "link": "https://www.nacion.com/el-pais/infraestructura/ice-volveria-a-construir-hidroelectricas-en/W7H2RSKZRRHT7JPQDJH6K6J2WA/story/",
       "title": "ICE volvería a construir hidroeléctricas en tiempos de menos lluvia",
       "source": "La Nación",
@@ -100,7 +19,7 @@
       "thumbnail": "https://www.nacion.com/resizer/mQ9XGgLbTbFQi59YfwN34KdSIzQ=/1440x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/DM3RW2LLQVE2XHTFXHHMGDKTFY.jpg"
     },
     {
-      "position": 12,
+      "position": 3,
       "link": "https://www.diarioextra.com/Noticia/detalle/516178/incendios-generados-por-cazadores-ponen-en-riesgo-parque-santa-rosa",
       "title": "Incendios generados por cazadores ponen en riesgo Parque Santa Rosa",
       "source": "Diario Extra - Costa Rica",
@@ -109,7 +28,7 @@
       "thumbnail": "https://www.diarioextra.com/files/Dnews/images/detail/516178_foto1.jpg"
     },
     {
-      "position": 13,
+      "position": 4,
       "link": "https://elmundo.cr/costa-rica/incendios-forestales-dejan-sin-internet-a-usuarios-en-distintas-zonas-del-pais/",
       "title": "Incendios forestales dejan sin Internet a usuarios en distintas zonas del país",
       "source": "El Mundo CR",
@@ -118,13 +37,22 @@
       "thumbnail": "https://elmundo.cr/wp-content/uploads/2024/03/Chacharita-Piedras-Blancas-Osa.jpeg"
     },
     {
-      "position": 14,
+      "position": 5,
       "link": "https://www.puntarenasseoye.com/desarrollo-comunitario/limpieza-en-guacalillo-permitio-la-recoleccion-de-274-kilos-de-desechos/",
       "title": "Limpieza en Guacalillo permitió la recolección de 274 kilos de desechos",
       "source": "Puntarenas Se Oye",
       "date": "2024-03-20T22:45:05+00:00",
       "snippet": "Chevrolet con la participación de 24 colaboradores, recolectaron más de 274 kilos de basura en la playa Guacalillo de Puntarenas.",
       "thumbnail": "https://www.puntarenasseoye.com/wp-content/uploads/2024/03/59d5e57b-d10b-4935-a498-fdc1ec9f7daf-jpg.webp"
+    },
+    {
+      "position": 6,
+      "link": "https://elmundo.cr/costa-rica/aeropuerto-internacional-juan-santamaria-reutiliza-1-743-m3-de-agua-de-lluvia-en-su-gestion-sostenible-del-recurso-hidrico/",
+      "title": "Aeropuerto Internacional Juan Santamaría reutiliza 1.743 m3 de agua de lluvia en su gestión sostenible del recurso ...",
+      "source": "El Mundo CR",
+      "date": "2024-03-22T15:54:25+00:00",
+      "snippet": "Aeropuerto Internacional Juan Santamaría reutiliza 1.743 m3 de agua de lluvia en su gestión sostenible del recurso hídrico Costa Rica - El Mundo CR.",
+      "thumbnail": "https://elmundo.cr/wp-content/uploads/2024/03/Recurso-hidrico-Aeropuerto-Juan-Santamaria.jpg"
     }
   ]
 }
