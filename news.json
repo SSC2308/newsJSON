@@ -93,7 +93,7 @@
     {
       "position": 11,
       "link": "https://twitter.com/SemanarioU/status/1790852567531950205",
-      "title": "#País. El presidente Chaves tras ser consultado sobre la tala en los bosques del Caribe Sur - @SemanarioU",
+      "title": "#País.Chaves tras ser consultado sobre la tala en los bosques del Caribe Sur - @SemanarioU",
       "source": "Twitter",
       "date": "2024-05-15T23:10:11-06:00",
       "snippet":"no vamos a destruir el tesoro nacional de esa costa sur de Limón, pero tampoco se lo vamos a dejar a la fauna Añadió: “ni grandes hoteles 5 estrellas, ni dejárselo a los monitos”.",
@@ -120,7 +120,7 @@
     {
       "position": 14,
       "link": "https://twitter.com/SeasTinta/status/1790467582379618581",
-      "title": "Estos son los camiones que han estado extrayendo madera talada en el refugio Gandoca Manzanillo desde hace días. - @SeasTinta",
+      "title": "Estos son los camiones que han estado extrayendo madera talada en el refugio - @SeasTinta",
       "source": "Twitter",
       "date": "2024-05-15T20:10:11-06:00",
       "snippet":"Se ha denunciado ante las autoridades una y mil veces y no hacen nada.",
@@ -129,10 +129,19 @@
     {
       "position": 15,
       "link": "https://twitter.com/CentralNCR/status/1790873630424940704",
-      "title": "\uD83D\uDEA8 #EnExclusiva #ÚltimaHora | Fiscalía Ambiental y peritos judiciales se dirigen a la zona de Refugio Gandoca-Manzanillo - @CentralNCR",
+      "title": "\uD83D\uDEA8 #EnExclusiva #ÚltimaHora|Fiscalía Ambiental y peritos judiciales se dirigen a la zona de Refugio Gandoca-Manzanillo - @CentralNCR",
       "source": "Twitter",
       "date": "2024-05-15T18:10:11-06:00",
       "snippet":"Vecinos denuncian tala en área protegida. Las autoridades están gestionando solicitud de allanamiento. Luis Hernández, Fiscal Ambiental brinda detalles.",
+      "thumbnail": "https://i.postimg.cc/VkDfVST9/Capture.jpg"
+    },
+    {
+      "position": 16,
+      "link": "https://www.larevista.cr/bernal-herrera-el-agua-en-costa-rica-abundancia-y-escasez-final-podcast/",
+      "title": "Bernal Herrera: El agua en Costa Rica: abundancia y escasez – Final (Podcast)",
+      "source": "La Revista",
+      "date": "2024-05-15T15:10:11-06:00",
+      "snippet":"El desabastecimiento de agua potable en Costa Rica es parte de un mal manejo general del agua, que incluye la pésima gestión del AyA y el MINAE, el irrespeto a las leyes, y el favorecimiento a grandes intereses político-empresariales mediante algunas normas y tarifas.",
       "thumbnail": "https://i.postimg.cc/VkDfVST9/Capture.jpg"
     }
   ]
